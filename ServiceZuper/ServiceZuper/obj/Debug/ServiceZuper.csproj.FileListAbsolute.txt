@@ -1,0 +1,7 @@
+D:\Materi PAT SM.5\Project\Project_A4\ServiceZuper\ServiceZuper\bin\Debug\ServiceZuper.dll.config
+D:\Materi PAT SM.5\Project\Project_A4\ServiceZuper\ServiceZuper\bin\Debug\ServiceZuper.dll
+D:\Materi PAT SM.5\Project\Project_A4\ServiceZuper\ServiceZuper\bin\Debug\ServiceZuper.pdb
+D:\Materi PAT SM.5\Project\Project_A4\ServiceZuper\ServiceZuper\obj\Debug\ServiceZuper.csproj.AssemblyReference.cache
+D:\Materi PAT SM.5\Project\Project_A4\ServiceZuper\ServiceZuper\obj\Debug\ServiceZuper.csproj.CoreCompileInputs.cache
+D:\Materi PAT SM.5\Project\Project_A4\ServiceZuper\ServiceZuper\obj\Debug\ServiceZuper.dll
+D:\Materi PAT SM.5\Project\Project_A4\ServiceZuper\ServiceZuper\obj\Debug\ServiceZuper.pdb

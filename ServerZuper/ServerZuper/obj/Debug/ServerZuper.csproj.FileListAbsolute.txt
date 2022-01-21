@@ -1,0 +1,11 @@
+D:\Materi PAT SM.5\Project\Project_A4\ServerZuper\ServerZuper\bin\Debug\ServerZuper.exe.config
+D:\Materi PAT SM.5\Project\Project_A4\ServerZuper\ServerZuper\bin\Debug\ServerZuper.exe
+D:\Materi PAT SM.5\Project\Project_A4\ServerZuper\ServerZuper\bin\Debug\ServerZuper.pdb
+D:\Materi PAT SM.5\Project\Project_A4\ServerZuper\ServerZuper\bin\Debug\ServiceZuper.dll
+D:\Materi PAT SM.5\Project\Project_A4\ServerZuper\ServerZuper\bin\Debug\ServiceZuper.pdb
+D:\Materi PAT SM.5\Project\Project_A4\ServerZuper\ServerZuper\bin\Debug\ServiceZuper.dll.config
+D:\Materi PAT SM.5\Project\Project_A4\ServerZuper\ServerZuper\obj\Debug\ServerZuper.csproj.AssemblyReference.cache
+D:\Materi PAT SM.5\Project\Project_A4\ServerZuper\ServerZuper\obj\Debug\ServerZuper.csproj.CoreCompileInputs.cache
+D:\Materi PAT SM.5\Project\Project_A4\ServerZuper\ServerZuper\obj\Debug\ServerZuper.csproj.CopyComplete
+D:\Materi PAT SM.5\Project\Project_A4\ServerZuper\ServerZuper\obj\Debug\ServerZuper.exe
+D:\Materi PAT SM.5\Project\Project_A4\ServerZuper\ServerZuper\obj\Debug\ServerZuper.pdb
