@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet"
+          asp-href-include="/lib/bootstrap/dist/**/*.min.css"
+          asp-href-exclude="**/*-reboot*,**/*-grid*" />
+    <link rel="stylesheet" asp-href-include="/lib/fontawesome/css/*.css" />
+    <title>ZUPERMARKET</title>
+</head>
+<body>
+    <div class="navbar navbar-inverse bg-inverse" role="navigation">
+        <div class="row">
+            <a class="col navbar-brand" href="#">ZUPERMARKET</a>
+            <div class="mr-3">
+                @await Component.InvokeAsync("CartSummary")
+            </div>
+            <div class="text-right mr-3">
+                <a class="btn btn-primary" asp-controller="Account" asp-action="Login">Log in</a>
+            </div>
+        </div>
+    </div>
+    <div class="row m-1 p-1">
+        <div id="categories" class="col-3">
+            @await Component.InvokeAsync("NavigationMenu")
+        </div>
+        <div class="col-9">
+            @RenderBody()
+        </div>
+    </div>
+</body>
+</html>
